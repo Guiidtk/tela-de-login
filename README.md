@@ -48,10 +48,12 @@ Realização de outros projetos em HTML e CSS para treinar organização de divs
 <h1>📸 Screenshots<h1>
 
 <h1>🖥️ Desktop design<h1>
-Design preview desktop
+
+![Desktop](https://user-images.githubusercontent.com/103462657/200042813-8c8fdb0a-acea-4c8c-8386-82932cb30f5a.png)
 
 <h1>📱 Mobile design<h1>
-Design preview mobile
+
+![Mobile](https://user-images.githubusercontent.com/103462657/200042853-0e7d6769-2e09-48f3-9582-dc0f86c003ac.png)
 
 <h1>🛠 Tecnologias utilizadas<h1>
 
